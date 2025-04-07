@@ -1,0 +1,6 @@
+*.pem
+*.ovpn
+
+.venv/
+*.pyc
+__pycache__
